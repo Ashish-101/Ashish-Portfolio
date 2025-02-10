@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Ashish-Portfolio/static/css/main.4f7f778f.css",
+    "main.js": "/Ashish-Portfolio/static/js/main.5f268ff9.js",
+    "static/media/map.jpg": "/Ashish-Portfolio/static/media/map.5506e25b2e7c3f2ad0e3.jpg",
+    "index.html": "/Ashish-Portfolio/index.html",
+    "main.4f7f778f.css.map": "/Ashish-Portfolio/static/css/main.4f7f778f.css.map",
+    "main.5f268ff9.js.map": "/Ashish-Portfolio/static/js/main.5f268ff9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f7f778f.css",
+    "static/js/main.5f268ff9.js"
+  ]
+}

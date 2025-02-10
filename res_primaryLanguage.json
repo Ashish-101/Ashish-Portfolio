@@ -1,0 +1,201 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Ashish Dhakal. I'm an ambitious GIS professional with a strong foundation in ArcGIS, Python, C#, Javascript and SQL. I also hold a degree in Environmental Engineering from Kathmandu University, Nepal. I believe my strong side is problem solving whether its a GIS, Anaytical or  programming problem. On my free time I love to code and learn about new technologies, recently I built my own custom computer by researching various parts to optimise and build a perfect setup for my day to day tasks.        This website is one of my side projects to learn web development, Thank you for visiting! and Please feel free to contact me through email or linkedin!",
+"section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience",
+        "education": "Education"
+      }
+    },
+    "projects": [
+      {
+        "title": "CPM",
+        "startDate": "2024-Present",
+        "description": "Currently, I am pursuing a postgraduate program in Construction Project Management (CPM) at Fanshawe College, where I am developing a strong foundation in project planning, execution, and control within the construction industry. My coursework has provided me with in-depth knowledge of project scheduling, cost estimation, risk management, contract administration, and sustainable building practices. I have gained hands-on experience using industry-standard software such as Microsoft Project, AutoCAD, Excel, and Bluebeam Revu to effectively manage construction workflows. Additionally, I have worked on projects involving building code compliance, procurement strategies, and stakeholder coordination, enhancing my ability to oversee projects from conception to completion. Most importantly, my experience has strengthened my ability to work collaboratively in a team environment, ensuring effective communication and coordination to achieve project goals successfully.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "type":"img",
+            "class": "Bluebeam.jpg",
+            "name": "Bluebeam Revu"
+          },
+          {
+            "type":"img",
+            "class": "Auto.jpeg",
+            "name": "AutoCAD"
+          },
+          {
+            "type":"img",
+            "class": "Excel.png",
+            "name": "Excel"
+          },
+          {
+            "type":"img",
+            "class": "Project.png",
+            "name": "Project"
+          }
+        ]
+      },
+      {
+        "title": "GIS",
+        "startDate": "2023-2024",
+        "description": "During my postgraduate studies in Geographic Information Systems (GIS) at Fanshawe College, I utilized industry-standard software such as ArcGIS Pro, QGIS, and Microsoft SQL Server. My experience includes processing and analyzing raster and vector data to derive meaningful insights for decision-making, creating cartographically accurate figures and thematic maps to effectively visualize spatial relationships, and designing and managing geodatabases to ensure data integrity and seamless integration of spatial datasets. Additionally, I developed an interactive web map using ArcGIS Online and the ArcGIS API for JavaScript, demonstrating my proficiency in GIS-driven web applications. I also worked with spatial databases, using SQL to store, query, and manipulate GIS data efficiently.  :)",
+        "images": [
+          "images/portfolio/photography/G1.jpg",
+          "images/portfolio/photography/G2.jpg",
+          "images/portfolio/photography/G3.jpg",
+          "images/portfolio/photography/G4.jpg",
+          "images/portfolio/photography/G5.jpg"
+        ],
+        "url": "https://www.fanshawec.ca/programs/gis1-geographic-information-systems-gis-co-op/courses-next",
+        "technologies": [
+          {
+            "type":"img",
+            "class": "ArcGIS_Pro.png",
+            "name": "ArcGIS Pro"
+          },
+          {
+            "type":"img",
+            "class": "arcgis_field.png",
+            "name": "Field Maps"
+          },
+          {
+            "type":"img",
+            "class": "Qgis.png",
+            "name": "QGIS"
+          },
+          {
+            "type":"img",
+            "class": "Python.png",
+            "name": "Python"
+          }
+        ]
+      },
+      {
+        "title": "THESIS",
+        "startDate": "2017-2022",
+        "description": "'Rainfall Runoff Modelling Using SWAT & ArcGIS.' This study modeled rainfall-runoff in the West Rapti Basin using SWAT and ArcSWAT integrated with ArcGIS for watershed delineation and spatial analysis. SWAT-CUP was used for calibration and validation, ensuring accurate hydrological simulations. The results identified key parameters influencing runoff and highlighted monsoon-driven flood risks, aiding in water resource planning and flood management.",
+        "images": [
+          "images/portfolio/adventure/Thesis 1.jpg",
+          "images/portfolio/adventure/Thesis 2.jpg",
+          "images/portfolio/adventure/Thesis 3.jpg"
+        ],
+        "url": "https://drive.google.com/file/d/1sFY2TbxsTA9ZUDLDBotHp0OkNkgHDXWW/view?usp=sharing",
+        "technologies": [
+          {
+            "type":"img",
+            "class": "ArcGIS_Pro.png",
+            "name": "Arc GIS"
+          },
+          {
+            "type":"img",
+            "class": "swat.png",
+            "name": "SWAT"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "badgeicon": "ArcGIS_Pro_white.png",
+        "company": "Ambiance Consult ltd.",
+        "title": "Junior Environmental Engineer",
+        "years": "04.2022 - 10.2023",
+        "mainTech": [
+          "Fulltime"
+        ],
+        "technologies": [
+          "Map Figure Layouts",
+          "Python Scripting",
+          "ArcGIS Model builder",
+          "Project",
+          "AutoCAD","Office Suite",
+          "Raster Analysis",
+          "LiDAR data processing",
+          "Geodatabase query",
+          "Spatial Analysis",
+          "3D Surface Modeling"
+        ]
+      },
+      {
+        "badgeicon": "ArcGIS_Pro_white.png",
+        "company": "Ambiance Consult ltd.",
+        "title": "Intern (Environmental Engineer)",
+        "years": "05.2023 - 09.2023",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "GIS",
+          "Basic ArcGIS Pro",
+          "Site Survey",
+          "Spatial Analysis"
+        ]
+      }
+    ],
+    "education": [
+
+      {
+        "badgeicon": "c.png",
+        "company": "Fanshawe College",
+        "title": "Construction Project Management",
+        "years": "09.2024 - 04.2025",
+        "mainTech": [
+          "Graduate Certificate"
+        ],
+        "technologies": [
+          "Safety and Quality Management",
+          "Project Planning and Scheduling",
+          "Cost Estimating",
+          "Sustainable Construction and Energy Modeling ",
+          "Contract Administration and Construction Law"
+          
+        ]
+      },
+
+      {
+        "badgeicon": "ArcGIS_Pro.png",
+        "company": "Fanshawe College",
+        "title": "Geographic Information Systems",
+        "years": "09.2022 - 05.2023",
+        "mainTech": [
+          "Graduate Certificate"
+        ],
+        "technologies": [
+          "ArcGIS Pro Desktop and ArcGIS Online",
+          "QGIS",
+          "SQL Database Management and querying",
+          "Spatial SQL introduction",
+          "Dot Net Programming",
+          "Raster Analysis",
+          "cartographic figure creation",
+          "Python Programming"
+        ]
+      },
+
+      
+      {
+        "badgeicon": "e.jpg",
+        "company": "Kathmandu University",
+        "title": "B.tech in Environmental Engineering",
+        "years": "2017 - 2022",
+        "mainTech": [
+          "Bachelor in Engineering"
+        ],
+        "technologies": [
+          "Water and Wastewater Technology",
+          "GIS and Remote Sensing",
+          "Environmental Modelling",
+          "EIA",
+          "Air and Noise Pollution Control",
+          "Alternative Energy Technology"
+        ]
+      }
+    ]
+  }
