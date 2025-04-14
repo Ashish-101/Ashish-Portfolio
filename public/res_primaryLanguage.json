@@ -111,13 +111,14 @@
           "Fulltime"
         ],
         "technologies": [
-          "Map Layouts",
+          "Map Figure Layouts",
+          "Python Scripting",
           "ArcGIS Model builder",
           "Project",
           "AutoCAD","Office Suite",
           "Raster Analysis",
           "LiDAR data processing",
-          "Geodatabase management",
+          "Geodatabase query",
           "Spatial Analysis",
           "3D Surface Modeling"
         ]
@@ -125,16 +126,16 @@
       {
         "badgeicon": "ArcGIS_Pro_white.png",
         "company": "Ambiance Consult ltd.",
-        "title": "Volunteer(Environmentalist)",
+        "title": "Intern (Environmentalist)",
         "years": "07.2023 - 09.2023",
         "mainTech": [
           ""
         ],
         "technologies": [
           "GIS",
-          "Basic ArcGIS/QGIS",
+          "Basic ArcGIS Pro",
           "Site Survey",
-          "Spatial Analysis"
+          "Data Collection"
         ]
       }
     ],
@@ -188,7 +189,7 @@
           "Bachelor in Engineering"
         ],
         "technologies": [
-          "Water and Wastewater Technology",
+          "Ecology",
           "GIS and Remote Sensing",
           "Environmental Modelling",
           "EIA",
