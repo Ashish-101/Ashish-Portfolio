@@ -105,16 +105,17 @@
       {
         "badgeicon": "ArcGIS_Pro_white.png",
         "company": "Ambiance Consult ltd.",
-        "title": "Junior Environmentalist",
+        "title": "Junior Environmental Engineer",
         "years": "04.2022 - 10.2023",
         "mainTech": [
           "Fulltime"
         ],
         "technologies": [
-          "Map Layouts",
+          "Map Figure Layouts",
+          "Python Scripting",
           "ArcGIS Model builder",
           "Project",
-          
+          "AutoCAD","Office Suite",
           "Raster Analysis",
           "LiDAR data processing",
           "Geodatabase query",
@@ -122,7 +123,21 @@
           "3D Surface Modeling"
         ]
       },
-      
+      {
+        "badgeicon": "ArcGIS_Pro_white.png",
+        "company": "Ambiance Consult ltd.",
+        "title": "Intern (Environmental Engineer)",
+        "years": "05.2023 - 09.2023",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "GIS",
+          "Basic ArcGIS Pro",
+          "Site Survey",
+          "Spatial Analysis"
+        ]
+      }
     ],
     "education": [
 
